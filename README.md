@@ -6,8 +6,7 @@ Here's a run down of all (ok, most of) of the commands used in the Kubernetes Mi
 
 #### minikube start
 
-starts minikube. If this hangs (wait 15 minutes), then see the video in section 3 that addresses common problems
-
+starts minikube. 
 #### minikube stop
 
 stops the minikube virtual machine. This may be necessary to do if you have an error when starting
